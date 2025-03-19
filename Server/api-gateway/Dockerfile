@@ -1,6 +1,6 @@
 
 
-FROM node:23-alphine
+FROM node:23-alpine
 
 WORKDIR /use/src/app
 
